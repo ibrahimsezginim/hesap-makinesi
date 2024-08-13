@@ -1,0 +1,28 @@
+﻿@model Project.Models.Calculator
+
+<body>
+    <div class="main">
+        <div class="box">
+            <form method="post" class="form-box">
+                <label for="FIRST_NUMBER" class="label">Sayı:</label>
+                <input type="text" name="FIRST_NUMBER" class="input-box" required>
+                <br>
+                <select id="operation" name="OPERATION" class="select-box" required>
+                    <option value="+">Toplama</option>
+                    <option value="-">Çıkarma</option>
+                    <option value="*">Çarpma</option>
+                    <option value="/">Bölme</option>
+                </select>
+                <br>
+                <label for="SECOND_NUMBER" class="label">Sayı:</label>
+                <input type="text" name="SECOND_NUMBER" class="input-box" required>
+                <br>
+                <button type="submit" class="toggle-btn">Hesapla</button>
+                <br><br>
+                <label for="sonuc" class="label">Sonuç</label>
+                <input type="text" class="input-box" value="@ViewData["Result"]"><br><br>
+                <br>
+            </form>
+        </div>
+    </div>
+</body>
