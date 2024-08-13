@@ -57,4 +57,4 @@ Proje, aşağıdaki ana bileşenleri içerir:
 
 ---
 
-Proje ile ilgili daha fazla bilgi almak veya katkıda bulunmak isterseniz, [Linkedin](https://www.linkedin.com/in/ibrahimsezginim)) ziyaret edebilir veya [iletişime geçin](mailto:benibrahimsezgin@outlook.com).
+Projeye öneri veya katkıda bulunmak isterseniz, [Linkedin](https://www.linkedin.com/in/ibrahimsezginim) profilimi ziyaret edebilir veya [e-posta](mailto:benibrahimsezgin@outlook.com) ile bana ulaşabilirsiniz.
